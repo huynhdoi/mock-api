@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "email": "admin@email.com",
+            "password": "$2b$10$pWjYXqPa1G/ColXRwPSYXeDcIl3kbAJ2APt15ixwNJxQkx/54fYja",
+            "userName": "admin",
+            "role": "Admin",
+            "isDeactivate": false
+        },
+        {
+            "id": 2,
+            "email": "supper_admin@email.com",
+            "password": "$2b$10$kVI75izlO9HJ0jsqiWz4uu0ffW4c6djqKWXsiFOg//SLDCyWQ4Poq",
+            "userName": "supper admin",
+            "role": "Supper admin",
+            "isDeactivate": false
+        }
+    ]
+}
